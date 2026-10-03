@@ -1,0 +1,114 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          299.6,
+          392.70000000000005
+        ],
+        [
+          316.4000000000001,
+          397.5
+        ],
+        [
+          334.0,
+          383.9
+        ],
+        [
+          332.4000000000001,
+          364.70000000000005
+        ],
+        [
+          326.8000000000002,
+          367.9
+        ],
+        [
+          319.6,
+          379.9
+        ],
+        [
+          314.8000000000002,
+          381.5
+        ],
+        [
+          306.8000000000002,
+          376.70000000000005
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo",
+      "score": null,
+      "points": [
+        [
+          304.4000000000001,
+          374.30000000000007
+        ],
+        [
+          310.0,
+          356.70000000000005
+        ],
+        [
+          326.0,
+          363.9
+        ],
+        [
+          318.0,
+          379.10000000000014
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          328.4000000000001,
+          359.9
+        ],
+        [
+          334.8000000000002,
+          348.70000000000005
+        ],
+        [
+          349.20000000000005,
+          352.70000000000005
+        ],
+        [
+          343.6,
+          363.10000000000014
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\01214_06.jpg",
+  "imageData": null,
+  "imageHeight": 600,
+  "imageWidth": 600
+}

@@ -1,0 +1,77 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          235.60000000000002,
+          443.10000000000014
+        ],
+        [
+          242.0,
+          422.30000000000007
+        ],
+        [
+          278.8000000000002,
+          421.5
+        ],
+        [
+          279.6,
+          449.5
+        ],
+        [
+          269.20000000000005,
+          469.5
+        ],
+        [
+          262.0,
+          471.10000000000014
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          414.0,
+          526.3000000000002
+        ],
+        [
+          407.6,
+          515.9000000000002
+        ],
+        [
+          424.4000000000001,
+          514.3000000000002
+        ],
+        [
+          435.6,
+          519.9000000000002
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\00305_06.jpg",
+  "imageData": null,
+  "imageHeight": 600,
+  "imageWidth": 600
+}

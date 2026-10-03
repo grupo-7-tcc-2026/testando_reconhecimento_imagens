@@ -1,0 +1,8 @@
+path: 'c:/Users/alexa/Downloads/Teste Base de Imagens TCC/dataset'
+train: images/train
+val: images/val
+
+names:
+  0: lixo_solto
+  1: lixo_contido
+  2: entulho

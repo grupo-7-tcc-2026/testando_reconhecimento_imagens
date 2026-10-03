@@ -1,0 +1,160 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          406.0,
+          396.70000000000005
+        ],
+        [
+          390.0,
+          395.9
+        ],
+        [
+          378.8000000000002,
+          381.5
+        ],
+        [
+          391.6,
+          375.10000000000014
+        ],
+        [
+          411.6,
+          381.5
+        ],
+        [
+          414.0,
+          384.70000000000005
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          462.80000000000007,
+          423.10000000000014
+        ],
+        [
+          455.6,
+          416.70000000000005
+        ],
+        [
+          461.20000000000005,
+          411.10000000000014
+        ],
+        [
+          475.6,
+          414.30000000000007
+        ],
+        [
+          479.6,
+          421.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          488.4000000000001,
+          413.5
+        ],
+        [
+          474.0,
+          403.10000000000014
+        ],
+        [
+          486.0,
+          402.30000000000007
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          513.2,
+          395.9
+        ],
+        [
+          542.8000000000001,
+          396.70000000000005
+        ],
+        [
+          523.6,
+          380.70000000000005
+        ],
+        [
+          513.2,
+          380.70000000000005
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          549.2,
+          398.30000000000007
+        ],
+        [
+          580.4000000000001,
+          403.9
+        ],
+        [
+          553.2,
+          385.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\00034_07.jpg",
+  "imageData": null,
+  "imageHeight": 600,
+  "imageWidth": 600
+}

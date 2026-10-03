@@ -1,0 +1,127 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          55.60000000000002,
+          439.10000000000014
+        ],
+        [
+          44.40000000000009,
+          423.10000000000014
+        ],
+        [
+          23.600000000000023,
+          420.70000000000005
+        ],
+        [
+          11.600000000000023,
+          431.10000000000014
+        ],
+        [
+          38.80000000000001,
+          447.9
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          2.0,
+          455.10000000000014
+        ],
+        [
+          27.600000000000023,
+          443.10000000000014
+        ],
+        [
+          3.6000000000000227,
+          443.10000000000014
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          6.800000000000011,
+          475.10000000000014
+        ],
+        [
+          43.60000000000002,
+          461.5
+        ],
+        [
+          30.0,
+          446.30000000000007
+        ],
+        [
+          9.200000000000045,
+          453.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          34.0,
+          411.9
+        ],
+        [
+          52.400000000000034,
+          407.9
+        ],
+        [
+          45.200000000000045,
+          398.30000000000007
+        ],
+        [
+          32.40000000000009,
+          401.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\01246_02.jpg",
+  "imageData": null,
+  "imageHeight": 600,
+  "imageWidth": 600
+}

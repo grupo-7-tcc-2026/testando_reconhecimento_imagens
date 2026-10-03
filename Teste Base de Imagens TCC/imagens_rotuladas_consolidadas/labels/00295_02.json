@@ -1,0 +1,40 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "entulho",
+      "score": null,
+      "points": [
+        [
+          286.8000000000002,
+          540.7000000000002
+        ],
+        [
+          302.8000000000002,
+          475.9000000000002
+        ],
+        [
+          291.6,
+          413.5
+        ],
+        [
+          278.0,
+          457.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\00295_02.jpg",
+  "imageData": null,
+  "imageHeight": 600,
+  "imageWidth": 600
+}
