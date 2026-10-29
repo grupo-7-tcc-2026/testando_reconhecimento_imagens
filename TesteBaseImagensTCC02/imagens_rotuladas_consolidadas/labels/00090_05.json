@@ -1,0 +1,48 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "lixo_solto",
+      "score": null,
+      "points": [
+        [
+          292.4000000000001,
+          413.5
+        ],
+        [
+          283.6,
+          425.5
+        ],
+        [
+          281.20000000000005,
+          431.9
+        ],
+        [
+          316.4000000000001,
+          439.10000000000014
+        ],
+        [
+          322.8000000000002,
+          428.70000000000005
+        ],
+        [
+          319.6,
+          412.70000000000005
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\00090_05.jpg",
+  "imageData": null,
+  "imageHeight": 600,
+  "imageWidth": 600
+}

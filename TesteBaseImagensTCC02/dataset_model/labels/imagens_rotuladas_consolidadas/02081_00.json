@@ -1,0 +1,106 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "lixo",
+      "score": null,
+      "points": [
+        [
+          318.0,
+          379.10000000000014
+        ],
+        [
+          304.4000000000001,
+          378.30000000000007
+        ],
+        [
+          305.20000000000005,
+          402.30000000000007
+        ],
+        [
+          312.4000000000001,
+          413.5
+        ],
+        [
+          325.20000000000005,
+          411.9
+        ],
+        [
+          326.8000000000002,
+          390.30000000000007
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo",
+      "score": null,
+      "points": [
+        [
+          290.8000000000002,
+          403.10000000000014
+        ],
+        [
+          290.8000000000002,
+          423.9
+        ],
+        [
+          309.20000000000005,
+          427.10000000000014
+        ],
+        [
+          306.0,
+          403.9
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo",
+      "score": null,
+      "points": [
+        [
+          196.39999999999998,
+          478.3000000000002
+        ],
+        [
+          179.60000000000002,
+          490.3000000000002
+        ],
+        [
+          188.39999999999998,
+          505.5
+        ],
+        [
+          208.39999999999998,
+          489.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\..\\images\\imagens_rotuladas_consolidadas\\02081_00.jpg",
+  "imageData": null,
+  "imageHeight": 600,
+  "imageWidth": 600
+}

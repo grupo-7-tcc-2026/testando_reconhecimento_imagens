@@ -1,0 +1,32 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "lixo",
+      "score": null,
+      "points": [
+        [
+          276.6369426751593,
+          174.10191082802547
+        ],
+        [
+          348.484076433121,
+          242.8917197452229
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "circle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\trash80.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 512
+}

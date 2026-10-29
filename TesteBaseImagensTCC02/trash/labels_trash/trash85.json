@@ -1,0 +1,40 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "lixo",
+      "score": null,
+      "points": [
+        [
+          204.78980891719743,
+          108.87898089171978
+        ],
+        [
+          179.82165605095537,
+          264.80254777070064
+        ],
+        [
+          369.88535031847135,
+          296.9044585987262
+        ],
+        [
+          388.22929936305735,
+          131.29936305732488
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\trash85.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 512
+}

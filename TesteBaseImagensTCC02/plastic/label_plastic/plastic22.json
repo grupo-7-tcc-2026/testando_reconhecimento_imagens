@@ -1,0 +1,32 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "lixo",
+      "score": null,
+      "points": [
+        [
+          294.47133757961785,
+          166.96815286624204
+        ],
+        [
+          216.50955414012736,
+          72.19108280254783
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "circle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "..\\plastic22.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 512
+}

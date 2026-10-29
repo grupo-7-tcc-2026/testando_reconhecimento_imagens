@@ -1,0 +1,107 @@
+{
+  "version": "4.0.6",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "lixo",
+      "score": null,
+      "points": [
+        [
+          41.239669421487605,
+          138.4297520661157
+        ],
+        [
+          34.29752066115705,
+          138.7603305785124
+        ],
+        [
+          33.96694214876035,
+          135.12396694214877
+        ],
+        [
+          40.24793388429754,
+          129.83471074380168
+        ],
+        [
+          43.223140495867796,
+          132.1487603305785
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo",
+      "score": null,
+      "points": [
+        [
+          54.4628099173554,
+          145.04132231404958
+        ],
+        [
+          49.17355371900828,
+          142.06611570247935
+        ],
+        [
+          49.50413223140495,
+          139.7520661157025
+        ],
+        [
+          54.4628099173554,
+          136.77685950413223
+        ],
+        [
+          57.76859504132236,
+          139.09090909090915
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lixo",
+      "score": null,
+      "points": [
+        [
+          50.16528925619835,
+          137.10743801652893
+        ],
+        [
+          50.16528925619835,
+          132.1487603305785
+        ],
+        [
+          57.43801652892563,
+          128.84297520661158
+        ],
+        [
+          58.76033057851248,
+          136.11570247933886
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "4cbbfda592780251f6512fb110c7fc5481fba60a.temp.jpeg",
+  "imageData": null,
+  "imageHeight": 250,
+  "imageWidth": 140,
+  "description": ""
+}

@@ -1,0 +1,6 @@
+path: "c:/Users/alexa/OneDrive/Área de Trabalho/TCC/Teste Base de Imagens TCC 02/dataset_model_yolo"
+train: images/train
+val: images/val
+
+names:
+  0: lixo
