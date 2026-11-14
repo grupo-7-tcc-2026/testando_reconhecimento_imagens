@@ -1,0 +1,21 @@
+{
+  "imagem": "imagemTeste02.jpg",
+  "largura_imagem": 4160,
+  "altura_imagem": 3120,
+  "quantidade_lixo": 1,
+  "confianca_media": 73.14,
+  "percentual_area_ocupada_estimado": 49.28,
+  "metrica_area": "Uniao das areas das caixas delimitadoras em relacao a area total da imagem.",
+  "deteccoes": [
+    {
+      "classe": "lixo",
+      "confianca": 0.731424,
+      "coordenadas": {
+        "x1": 49.74,
+        "y1": 1544.35,
+        "x2": 4149.57,
+        "y2": 3104.46
+      }
+    }
+  ]
+}
