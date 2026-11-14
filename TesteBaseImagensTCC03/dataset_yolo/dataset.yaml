@@ -1,0 +1,5 @@
+path: "/mnt/c/Users/alexa/OneDrive/Área de Trabalho/TCC/Teste Base de Imagens TCC 03/dataset_yolo"
+train: images/train
+val: images/val
+names:
+  0: "lixo"
